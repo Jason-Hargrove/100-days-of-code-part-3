@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 4: Mar 12, 2022
+
+**Today's Progress:** Configuring a new project for TypeScript. Ran into an error when starting the server.
+
+**Thoughts:** I hope it's just a Node.js updeate - I realized I'm a bit behind - we'll see.
+
+**Link to work:** [typescript-the-big-picture](https://github.com/Jason-Hargrove/typescript-the-big-picture.git)
+
 ### Day 3: Mar 11, 2022
 
 **Today's Progress:** Defining classes, working with modules, took a skill test in TypeScript.
