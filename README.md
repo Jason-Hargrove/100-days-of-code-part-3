@@ -1,10 +1,18 @@
 # 100 Days Of Code - logs
 
+### Day 5: Mar 13, 2022
+
+**Today's Progress:** Troubleshooting TypeScript project. Changed Node versions, and reconfigured Webpack. Still not up and running.
+
+**Thoughts:** Spent a lot of time going through documentation trying to get it up and running. Not running correctly yet.
+
+**Link to work:** [typescript-the-big-picture](https://github.com/Jason-Hargrove/typescript-the-big-picture.git)
+
 ### Day 4: Mar 12, 2022
 
 **Today's Progress:** Configuring a new project for TypeScript. Ran into an error when starting the server.
 
-**Thoughts:** I hope it's just a Node.js updeate - I realized I'm a bit behind - we'll see.
+**Thoughts:** I hope it's just a Node.js update - I realized I'm a bit behind - we'll see.
 
 **Link to work:** [typescript-the-big-picture](https://github.com/Jason-Hargrove/typescript-the-big-picture.git)
 
