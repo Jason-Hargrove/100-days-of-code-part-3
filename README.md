@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 6: Mar 14, 2022
+
+**Today's Progress:** Troubleshot Webpack the past two days.
+
+**Thoughts:** A bit frustrated - I'm not the only one having issues with this tutorial. I'm cutting my losses.
+
+**Link to work:** [typescript-the-big-picture](https://github.com/Jason-Hargrove/typescript-the-big-picture.git)
+
 ### Day 5: Mar 13, 2022
 
 **Today's Progress:** Troubleshooting TypeScript project. Changed Node versions, and reconfigured Webpack. Still not up and running.
