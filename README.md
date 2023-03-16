@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 8: Mar 16, 2022
+
+**Today's Progress:** Worked with basic types, tuple, union, enum.
+
+**Thoughts:** Not troubleshooting this morning - smooth sailing.
+
+**Link to work:** [typescript-crash-course](https://github.com/Jason-Hargrove/typescript-crash-course.git)
+
 ### Day 7: Mar 15, 2022
 
 **Today's Progress:** Setup with diffrent TypeScript tutorial. Configured and started working with basic types.
