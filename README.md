@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 7: Mar 15, 2022
+
+**Today's Progress:** Setup with diffrent TypeScript tutorial. Configured and started working with basic types.
+
+**Thoughts:** Had to do more troubleshooting / reversing all the things I tried to get the last tutorial running.
+
+**Link to work:** [typescript-crash-course](https://github.com/Jason-Hargrove/typescript-crash-course.git)
+
 ### Day 6: Mar 14, 2022
 
 **Today's Progress:** Troubleshot Webpack the past two days.
