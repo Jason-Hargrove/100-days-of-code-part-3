@@ -1,6 +1,14 @@
 # 100 Days Of Code - logs
 
-### Day 8: Mar 16, 2022
+### Day 9: Mar 17, 2023
+
+**Today's Progress:** TypeScript. Worked with objects, type assertion, and functions.
+
+**Thoughts:** Nothing crazy. No problems.
+
+**Link to work:** [typescript-crash-course](https://github.com/Jason-Hargrove/typescript-crash-course.git)
+
+### Day 8: Mar 16, 2023
 
 **Today's Progress:** Worked with basic types, tuple, union, enum.
 
@@ -8,7 +16,7 @@
 
 **Link to work:** [typescript-crash-course](https://github.com/Jason-Hargrove/typescript-crash-course.git)
 
-### Day 7: Mar 15, 2022
+### Day 7: Mar 15, 2023
 
 **Today's Progress:** Setup with diffrent TypeScript tutorial. Configured and started working with basic types.
 
@@ -16,7 +24,7 @@
 
 **Link to work:** [typescript-crash-course](https://github.com/Jason-Hargrove/typescript-crash-course.git)
 
-### Day 6: Mar 14, 2022
+### Day 6: Mar 14, 2023
 
 **Today's Progress:** Troubleshot Webpack the past two days.
 
@@ -24,7 +32,7 @@
 
 **Link to work:** [typescript-the-big-picture](https://github.com/Jason-Hargrove/typescript-the-big-picture.git)
 
-### Day 5: Mar 13, 2022
+### Day 5: Mar 13, 2023
 
 **Today's Progress:** Troubleshooting TypeScript project. Changed Node versions, and reconfigured Webpack. Still not up and running.
 
@@ -32,7 +40,7 @@
 
 **Link to work:** [typescript-the-big-picture](https://github.com/Jason-Hargrove/typescript-the-big-picture.git)
 
-### Day 4: Mar 12, 2022
+### Day 4: Mar 12, 2023
 
 **Today's Progress:** Configuring a new project for TypeScript. Ran into an error when starting the server.
 
@@ -40,7 +48,7 @@
 
 **Link to work:** [typescript-the-big-picture](https://github.com/Jason-Hargrove/typescript-the-big-picture.git)
 
-### Day 3: Mar 11, 2022
+### Day 3: Mar 11, 2023
 
 **Today's Progress:** Defining classes, working with modules, took a skill test in TypeScript.
 
@@ -48,7 +56,7 @@
 
 **Link to work:** [typescript-the-big-picture](https://github.com/Jason-Hargrove/typescript-the-big-picture.git)
 
-### Day 2: Mar 10, 2022
+### Day 2: Mar 10, 2023
 
 **Today's Progress:** Writing and compiling TypeScript. Project configuration.
 
@@ -56,7 +64,7 @@
 
 **Link to work:** [typescript-the-big-picture](https://github.com/Jason-Hargrove/typescript-the-big-picture.git)
 
-### Day 1: Mar 9, 2022
+### Day 1: Mar 9, 2023
 
 **Today's Progress:** Setting up a TypeScript development enviroment.
 
