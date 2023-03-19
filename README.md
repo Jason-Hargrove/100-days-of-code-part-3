@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 10: Mar 18, 2023
+
+**Today's Progress:** TypeScript. Interfaces and functional interfaces.
+
+**Thoughts:** Down to the wire tonight.
+
+**Link to work:** [typescript-crash-course](https://github.com/Jason-Hargrove/typescript-crash-course.git)
+
 ### Day 9: Mar 17, 2023
 
 **Today's Progress:** TypeScript. Worked with objects, type assertion, and functions.
