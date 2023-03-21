@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 12: Mar 20, 2023
+
+**Today's Progress:** Setup Vue 3 app with TypeScirpt.
+
+**Thoughts:** Nothing crazy.
+
 ### Day 11: Mar 19, 2023
 
 **Today's Progress:** TypeScript. Classes, access modifiers,
@@ -7,7 +13,7 @@ extending classes, generics. TypeScript with React.
 
 **Thoughts:** Haven't touched React in a bit. That was fun!
 
-**Link to tutorial** [Traversy Media - TypeScript Crash Course](https://youtu.be/BCg4U1FzODs)
+**Link to tutorial:** [Traversy Media - TypeScript Crash Course](https://youtu.be/BCg4U1FzODs)
 **Link to work:** [typescript-crash-course](https://github.com/Jason-Hargrove/typescript-crash-course.git)
 
 ### Day 10: Mar 18, 2023
