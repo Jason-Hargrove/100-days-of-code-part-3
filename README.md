@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 13: Mar 21, 2023
+
+**Today's Progress:** Setup old Vue.js repo with TypeScript. Troubleshooting.
+
+**Thoughts:** Had some Node issues. Good to go now.
+
+**Link to work:** [real-world-vue](https://github.com/Jason-Hargrove/real-world-vue.git)
+
 ### Day 12: Mar 20, 2023
 
 **Today's Progress:** Setup Vue 3 app with TypeScirpt.
