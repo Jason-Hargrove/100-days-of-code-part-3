@@ -1,5 +1,13 @@
 # 100 Days Of Code - logs
 
+### Day 14: Mar 22, 2023
+
+**Today's Progress:** Troubleshooting TypeScript after installing in existing project. Creating components with TypeScript.
+
+**Thoughts:** Adding TypeScript to an existing project sure did't work right out of the box.
+
+**Link to work:** [real-world-vue](https://github.com/Jason-Hargrove/real-world-vue.git)
+
 ### Day 13: Mar 21, 2023
 
 **Today's Progress:** Setup old Vue.js repo with TypeScript. Troubleshooting.
