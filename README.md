@@ -1,8 +1,16 @@
 # 100 Days Of Code - logs
 
+### Day 16: Mar 24, 2023
+
+**Today's Progress:** Defining custom types in TypeScript.
+
+**Thoughts:** Eh, can't push to GitHub tonight.
+
+**Link to work:** [real-world-vue](https://github.com/Jason-Hargrove/real-world-vue.git)
+
 ### Day 15: Mar 23, 2023
 
-**Today's Progress:** Going back over type fundemantals, and defining custom types in TypeScript.
+**Today's Progress:** Going back over type fundamentals, and defining custom types in TypeScript.
 
 **Thoughts:** Nothing crazy.
 
