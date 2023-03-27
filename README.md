@@ -1,5 +1,19 @@
 # 100 Days Of Code - logs
 
+### Day 18: Mar 26, 2023
+
+**Today's Progress:** Setup composition API with Typescript.
+
+**Thoughts:** Would have liked to have gone a bit further tonight.
+
+### Day 17: Mar 25, 2023
+
+**Today's Progress:** Data with custom types, generics, PropType, defining custom types on props, custom types with computed properties and methods in TypeScript.
+
+**Thoughts:** Got a little further today. Maybe it's the weekend.
+
+**Link to work:** [real-world-vue](https://github.com/Jason-Hargrove/real-world-vue.git)
+
 ### Day 16: Mar 24, 2023
 
 **Today's Progress:** Defining custom types in TypeScript.
