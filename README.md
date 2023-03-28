@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 19: Mar 27, 2023
+
+**Today's Progress:** Refactored component that was using Options API, to using Composition API with TypeScript.
+
+**Thoughts:** May need to do this a few more times to get it.
+
 ### Day 18: Mar 26, 2023
 
 **Today's Progress:** Setup composition API with Typescript.
