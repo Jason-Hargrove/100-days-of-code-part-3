@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 20: Mar 28, 2023
+
+**Today's Progress:** Worked overtime - the regular job - troubleshooting pipelines and unit testing with jest.
+
+**Thoughts:** May sound like a cheep out using actual work for this - dodging TypeScript today - but I'm beat.
+
 ### Day 19: Mar 27, 2023
 
 **Today's Progress:** Refactored component that was using Options API, to using Composition API with TypeScript.
