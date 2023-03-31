@@ -1,10 +1,16 @@
 # 100 Days Of Code - logs
 
+### Day 21: Mar 30, 2023
+
+**Today's Progress:** Setting up for a course createing object-oriented TypeScript code.
+
+**Thoughts:** Getting a bit frustrated with Pluralsight courses. I participated in the comments tonight.
+
 ### Day 21: Mar 29, 2023
 
 **Today's Progress:** Wrapped up an OpenAI tutorial. Started an TypeScript course on Pluralsight about "Creating Object-oriented TypeScript Code"
 
-**Thoughts:** I needed that sidetrack, and it was tempeting to stay there. I'll have to take a dive once in awhile back into OpenAi.
+**Thoughts:** I needed that sidetrack, and it was tempting to stay there. I'll have to take a dive once in awhile back into OpenAi.
 
 ### Day 20: Mar 28, 2023
 
