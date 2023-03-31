@@ -2,7 +2,7 @@
 
 ### Day 21: Mar 30, 2023
 
-**Today's Progress:** Setting up for a course createing object-oriented TypeScript code.
+**Today's Progress:** Setting up for a course creating object-oriented TypeScript code.
 
 **Thoughts:** Getting a bit frustrated with Pluralsight courses. I participated in the comments tonight.
 
