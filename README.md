@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 22: Mar 31, 2023
+
+**Today's Progress:** Jest. Matcher methods, testing async functions, setting up, tearing down, and mocks.
+
+**Thoughts:** Skipped TypeScript today. Had some work related studies to get ahead of before next week.
+
 ### Day 21: Mar 30, 2023
 
 **Today's Progress:** Setting up for a course creating object-oriented TypeScript code.
