@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 23: Apr 1, 2023
+
+**Today's Progress:** Intro to Object Oriented Programing in TypeScript, concepts, creating classes.
+
+**Thoughts:** Feeling a bit shaky with the setup, but it's working so far.
+
 ### Day 22: Mar 31, 2023
 
 **Today's Progress:** Jest. Matcher methods, testing async functions, setting up, tearing down, and mocks.
