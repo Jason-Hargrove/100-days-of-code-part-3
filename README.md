@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 24: Apr 2, 2023
+
+**Today's Progress:** Object Oriented Programing in TypeScript, creating classes.
+
+**Thoughts:** The same thing as yesterday.
+
 ### Day 23: Apr 1, 2023
 
 **Today's Progress:** Intro to Object Oriented Programing in TypeScript, concepts, creating classes.
