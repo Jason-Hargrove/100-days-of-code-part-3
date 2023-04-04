@@ -2,7 +2,7 @@
 
 ### Day 25: Apr 3, 2023
 
-**Today's Progress:** Python. Helping a frined with his class project.
+**Today's Progress:** Python. Helping a friend with his class project.
 
 **Thoughts:** Big departure from my TypeScript study.
 
