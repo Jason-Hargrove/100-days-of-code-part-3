@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 25: Apr 3, 2023
+
+**Today's Progress:** Python. Helping a frined with his class project.
+
+**Thoughts:** Big departure from my TypeScript study.
+
 ### Day 24: Apr 2, 2023
 
 **Today's Progress:** Object Oriented Programing in TypeScript, creating classes.
