@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 26: Apr 4, 2023
+
+**Today's Progress:** Unit testing with Jest.
+
+**Thoughts:** Work assignment. Spent more time that I wanted to with it.
+
 ### Day 25: Apr 3, 2023
 
 **Today's Progress:** Python. Helping a friend with his class project.
