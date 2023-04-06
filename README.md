@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 27: Apr 5, 2023
+
+**Today's Progress:** TypeScript, adding class members, creating a class instance.
+
+**Thoughts:** Nothing crazy.
+
 ### Day 26: Apr 4, 2023
 
 **Today's Progress:** Unit testing with Jest.
