@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 28: Apr 6, 2023
+
+**Today's Progress:** TypeScript, constructors and properties.
+
+**Thoughts:** Nothing crazy.
+
 ### Day 27: Apr 5, 2023
 
 **Today's Progress:** TypeScript, adding class members, creating a class instance.
