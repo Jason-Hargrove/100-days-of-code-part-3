@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 29: Apr 7, 2023
+
+**Today's Progress:** Tried installing Stable Diffusion WebUI.
+
+**Thoughts:** No successful yet.
+
 ### Day 28: Apr 6, 2023
 
 **Today's Progress:** TypeScript, constructors and properties.
