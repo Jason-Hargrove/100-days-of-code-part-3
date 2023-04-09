@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 30: Apr 8, 2023
+
+**Today's Progress:** Troubleshot installations, researched Stable Diffusion WebUI, installed and able to use invoke ai.
+
+**Thoughts:** Had to make some tough choices about what to remove form my hard drive. invoke ai took up a lot of space.
+
 ### Day 29: Apr 7, 2023
 
 **Today's Progress:** Tried installing Stable Diffusion WebUI.
