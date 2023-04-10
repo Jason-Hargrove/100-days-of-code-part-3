@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 31: Apr 9, 2023
+
+**Today's Progress:** Watched two invoke ai tutorials.
+
+**Thoughts:** It's been fun. Back to TypeScript tomorrow.
+
 ### Day 30: Apr 8, 2023
 
 **Today's Progress:** Troubleshot installations, researched Stable Diffusion WebUI, installed and able to use invoke ai.
