@@ -1,5 +1,11 @@
 # 100 Days Of Code - logs
 
+### Day 32: Apr 10, 2023
+
+**Today's Progress:** TypeScript, constructors and properties.
+
+**Thoughts:** Nothing crazy.
+
 ### Day 31: Apr 9, 2023
 
 **Today's Progress:** Watched two invoke ai tutorials.
