@@ -1,5 +1,9 @@
 # 100 Days Of Code - logs
 
+### Pause: Apr 12, 2023
+
+**Today's Progress:** Taking a pause to take care of some personal matters.
+
 ### Day 33: Apr 11, 2023
 
 **Today's Progress:** TypeScript, constructors and properties.
