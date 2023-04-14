@@ -1,5 +1,7 @@
 # 100 Days Of Code - logs
 
+### Pause: Apr 14, 2023
+
 ### Pause: Apr 13, 2023
 
 ### Pause: Apr 12, 2023
