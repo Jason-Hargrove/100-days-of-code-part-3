@@ -1,5 +1,17 @@
 # 100 Days Of Code - logs
 
+### Pause: Apr 19, 2023
+
+**Today's Progress:** TypeScript constructors, properties, and static members.
+
+### Pause: Apr 18, 2023
+
+### Pause: Apr 17, 2023
+
+### Pause: Apr 16, 2023
+
+### Pause: Apr 15, 2023
+
 ### Pause: Apr 14, 2023
 
 ### Pause: Apr 13, 2023
