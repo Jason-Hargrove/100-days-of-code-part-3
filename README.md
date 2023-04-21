@@ -1,6 +1,10 @@
 # 100 Days Of Code - logs
 
-### Pause: Apr 19, 2023
+### Day 35: Apr 20, 2023
+
+**Today's Progress:** TypeScript the role of inheritance.
+
+### Day 34: Apr 19, 2023
 
 **Today's Progress:** TypeScript constructors, properties, and static members.
 
